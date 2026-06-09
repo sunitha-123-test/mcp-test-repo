@@ -1,0 +1,16 @@
+GitHub MCP End-to-End Testing
+
+Repository: mcp-test-repo
+Branch: feature-login
+File: sample1.txt
+
+Purpose:
+This file is created to validate GitHub MCP file operations.
+
+Test Scenarios:
+- File Creation
+- File Retrieval
+- File Update
+- Commit Validation
+
+Status: Created Successfully

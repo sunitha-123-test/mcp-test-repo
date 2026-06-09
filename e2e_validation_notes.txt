@@ -1,0 +1,9 @@
+GitHub MCP End-to-End Testing
+
+This file is used for validating GitHub MCP functionality.
+
+Test Coverage:
+- Branch Creation
+- File Creation
+- File Retrieval
+- Pull Request Validation

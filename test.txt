@@ -1,0 +1,14 @@
+GitHub MCP Integration Testing
+
+Test Case ID: TC_GH_001
+Repository: mcp-test-repo
+Branch: feature-login
+Tester: Sunitha
+
+Test Objective:
+Validate file creation functionality through GitHub MCP.
+
+Expected Result:
+File should be created successfully in the specified branch.
+
+Status: In Progress
